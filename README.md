@@ -14,3 +14,5 @@ Pretty fast, could be made faster by handling cases such as this in set_cell ('1
 . . .   . . .   . . .
 ".......23.......56.......98.23456.89............................................."
 ```
+
+Try `./compile_smart_test.sh && time ./solver_smart_test`
