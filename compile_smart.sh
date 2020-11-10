@@ -1,0 +1,1 @@
+gcc -O3 solver_smart.c -o solver_smart -Wall -Wextra -Werror

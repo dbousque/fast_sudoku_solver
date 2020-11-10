@@ -1,0 +1,1 @@
+gcc -O3 solver.c -o solver -Wall -Wextra -Werror
